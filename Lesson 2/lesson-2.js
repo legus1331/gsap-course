@@ -1,10 +1,10 @@
 // aboutMe.js
 
-// Переменные о вас
-const myName = 'Ваше Имя';
-const myAge = 25; // Ваш возраст
-const myCity = 'Ваш Город';
-const myHobby = 'Ваше хобби в двух словах';
+// Переменные обо мне
+const myName = 'Адам';
+const myAge = 25;
+const myCity = 'Махачкала';
+const myHobby = 'Андифитет';
 
 // Вывод информации в консоль
 console.log('Имя:', myName);
