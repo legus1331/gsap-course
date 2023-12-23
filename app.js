@@ -1,13 +1,13 @@
-// const firstName = 'Adam'
-// firstName = 'Pavel'
-// console.log('Hello', firstName)
+// aboutMe.js
 
-let firstName = 'Adam'
-firstName = 'Pavel'
+// Переменные о вас
+const myName = 'Ваше Имя';
+const myAge = 25; // Ваш возраст
+const myCity = 'Ваш Город';
+const myHobby = 'Ваше хобби в двух словах';
 
-console.log('Hello', firstName)
-
-var lastName = 'Adam'
-lastName = 'Shamil'
-
-console.log(lastName)
+// Вывод информации в консоль
+console.log('Имя:', myName);
+console.log('Возраст:', myAge);
+console.log('Город:', myCity);
+console.log('Хобби:', myHobby);
